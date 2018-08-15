@@ -15,3 +15,5 @@ https://classroom.udacity.com/me
 ### 每日一题
 https://github.com/panthole/DLND
 
+### 获取更多资料
+![微信公众号](./assets/qrcode.jpg)
