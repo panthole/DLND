@@ -1,5 +1,8 @@
 ## Udacity深度学习试学班每日一题
 
+### 开班仪式
+https://www.eeo.cn/webcast.php?courseKey=f4f0792c5699523e
+
 ### 打卡格式
  Day1 -学号
  问题：
