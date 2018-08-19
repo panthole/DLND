@@ -15,7 +15,13 @@ https://classroom.udacity.com/me
 ### 每日一题
 https://github.com/panthole/DLND
 
-### 开班仪式
+### 项目地址
+https://github.com/CheneyZeng/ai_guess
+
+### 每日一题答案
+https://shimo.im/sheet/7DQtgR8gKEY6FvOr/RIDOC
+
+### 直播课回看地址
 https://www.eeo.cn/webcast.php?courseKey=f4f0792c5699523e
 
 ### 获取更多资料
